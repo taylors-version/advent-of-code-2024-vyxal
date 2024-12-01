@@ -1,4 +1,4 @@
 Part 1 (17 bytes)  
 [Vyxal It Online!](https://vyxal.github.io/latest.html#H4sIAAAAAAAAE6tWSssvyk0sUbIy1lHKSE1MSS1SslJS0lFKzk9JVbJSSn24s-lRT9ex2Rm1wfZwTklt8InljzomKukopeXnl8D0pOUkphcrWUXH6ihl5hWUloDY0UruRfmlBQqGSjrRSkqxsbE6SmWpRcWZ-XlKVkrGeiZ6hgZKtQDBGNi2hgAAAA)  
-Part 2 (38 bytes)  
-[Vyxal It Online!](https://vyxal.github.io/latest.html#H4sIAAAAAAAAE6tWSssvyk0sUbIy1lHKSE1MSS1SslJS0lFKzk9JVbJSSn24s-nY7IxHPV21yraJ9hBuCYSbpGCgbFusoKySeGy2skqSgnPe4em1jzomKukopeXnl8BMSstJTC9WsoqO1VHKzCsoLQGxo5Xci_JLCxQMlXSilZRiY2N1lMpSi4oz8_OUrJSM9Uz0DA2UagHkJ_R5nAAAAA)
+Part 2 (26 bytes)  
+[Vyxal It Online!](https://vyxal.github.io/latest.html#H4sIAAAAAAAAE6tWSssvyk0sUbIy1lHKSE1MSS1SslJS0lFKzk9JVbJSSn24s-nY7JJHPV21yrZJ9hBuBoh7bLaySpKCc97h6bWPOiYq6Sil5eeXwHSn5SSmFytZRcfqKGXmFZSWgNjRSu5F-aUFCoZKOtFKSrGxsTpKZalFxZn5eUpWSsZ6JnqGBkq1APHnEsuQAAAA)  
