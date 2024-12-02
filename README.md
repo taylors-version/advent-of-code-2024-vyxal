@@ -1,5 +1,5 @@
 # advent-of-code-2024-vyxal
-Here's my attempt to solve as much of Advent of Code 2024 as I can in [Vyxal](https://vyxal.github.io/)
+Here's my attempt to solve as much of [Advent of Code 2024](https://adventofcode.com/2024/) as I can in [Vyxal](https://vyxal.github.io/)
 
 ### How to run
 Most solutions should be runnable in the [online IDE](https://vyxal.github.io/latest.html) Simply put the code in the section headed by "Bytes", create a new input group and enter your input.  
