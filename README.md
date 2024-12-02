@@ -8,3 +8,7 @@ Some solutions might not run on the online IDE, in which case you'll need to dow
 ### meta.md
 Each day will try to have a meta.md file. This will say how many bytes I've got each solution down to with a link to running it (you will need to enter your input manually).  
 I will also try to include an explanation of how the code works.
+
+
+### Running byte count
+4 stars, 153 bytes = 38.25 avg
