@@ -1,0 +1,8 @@
+λnS₌}#=increasing
+λnSṚ₌}#=decreasing
+λun₌}#=unique
+λL1=[1X}hn1iȧ3>[0X}Ḣx}#=diff
+
+eṂ⌊ ƛn#=a nιƛ#$a nQ}
+Ωn#$increasing Ė n#$decreasing Ė ∨ n#$unique Ė ∧ n#$diff Ė ∧}L
+}Ω0≠}L
