@@ -1,0 +1,24 @@
+##These need to be run individually
+λS₌}#=increasing
+"1 2 7 8 9"Ṃ⌊ #$increasing Ė 1=
+##
+λS₌}#=increasing
+"3 2 7 8 9"Ṃ⌊ #$increasing Ė 0=
+##
+λSṚ₌}#=decreasing
+"7 6 4 2 1"Ṃ⌊ #$decreasing Ė 1=
+##
+λSṚ₌}#=decreasing
+"5 6 4 2 1"Ṃ⌊ #$decreasing Ė 0=
+##
+λun₌}#=unique
+"7 6 4 2 1"Ṃ⌊ #$unique Ė 1
+##
+λun₌}#=unique
+"8 6 4 4 1"Ṃ⌊ #$unique Ė 0=
+##
+λL1=[1X}hn1iȧ3>[0X}Ḣx}#=diff
+"7 6 4 2 1"Ṃ⌊ #$diff Ė 1=
+##
+λL1=[1X}hn1iȧ3>[0X}Ḣx}#=diff
+"1 2 7 8 9"Ṃ⌊ #$diff Ė 0=
