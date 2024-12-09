@@ -1,0 +1,4 @@
+ᶲƛme[m2÷|'x}n⌊Y}fᵛᶲ£ ##Convert to block view (using xs rather than .s)
+{¥Lv¥ṚλK}Ḟh-Ọ ##location of last number
+¥'xḞ;Ọ:hỌ$tỌ> ##location of first x, compare to see which is larger
+|¥ni#= ¥ntQnt#$ hỊnhQ£Ọ} ##insert number into x location, remove x, remove number
