@@ -1,4 +1,5 @@
-ᶲƛme[m2÷|'x}n⌊Y}fᵛᶲ£ ##Convert to block view (using xs rather than .s)
-{¥Lv¥ṚλK}Ḟh-Ọ ##location of last number
-¥'xḞ;Ọ:hỌ$tỌ> ##location of first x, compare to see which is larger
-|¥ni#= ¥ntQnt#$ hỊnhQ£Ọ} ##insert number into x location, remove x, remove number
+ᶲƛme[m2÷|'x}n⌊Y}fᵛᶲ ##Convert input to block form
+{:₳J}"x\d"R| ##Check whether it ends in x's
+:λLv¥ṚλK}Ḟh-n'xḞ;}Ė  ##stack has coords at top, then blocks under
+£:¥hi#= :¥tQ¥hvQ ¥t#$Ị}
+⌊Þι∑
