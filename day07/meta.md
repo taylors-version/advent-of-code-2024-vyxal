@@ -30,5 +30,4 @@ eṂ⌊:ƛḣλ2|L1=[mtn=X}hmt>[0X}2İ:nP1iΠwpfmt$x$:nP1i∑wpfmt$x$nP1i/Jwpfmt
 eṂ⌊:ƛḣλ2|L1=[mtn=X}hmt>[0X}2İ:nP1iΠwpfmt$x$:nP1i∑wpfmt$x               ∨}Ė}fÞỊi∑h :Same as part 1
                                                         $nP1i/Jwpfmt$x            :Combine the 2 numbers together instead of Add or Multiply
                                                                       v           :OR this with other 2 results
-
 ```
