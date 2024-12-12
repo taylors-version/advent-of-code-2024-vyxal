@@ -12,4 +12,4 @@ I will also try to include an explanation of how the code works.
 
 
 ### Running byte count
-8 stars, 363 bytes = 45.375 avg
+14 stars, 708 bytes = 50.57 avg
